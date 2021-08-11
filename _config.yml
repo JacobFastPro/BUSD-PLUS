@@ -3,7 +3,7 @@ title: BUSD PLUS
 author: BUSD PLUS
 email: busdplus@fdasho.com
 description: BUSD PLUS PLUS
-baseurl: ''
+baseurl: "/homepage"
 url: https://jacobfastpro.github.io/BUSD-PLUS/
 defaults: []
 plugins:
