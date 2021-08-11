@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: HomePage
-date: 2021-08-11 02:00:00 +0000
+date: 2021-08-11 00:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
