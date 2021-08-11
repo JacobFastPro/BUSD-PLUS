@@ -9,6 +9,5 @@ page_sections:
   navigation:
   - link: Telegram
     link_text: https://t.me/BUSDplus
-published: false
 
 ---
