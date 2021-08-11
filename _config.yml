@@ -3,7 +3,7 @@ title: BUSD PLUS
 author: BUSD PLUS
 email: busdplus@fdasho.com
 description: BUSD PLUS PLUS
-baseurl: "/ubuild-jekyll"
+baseurl: ''
 url: ''
 defaults:
 - scope:
