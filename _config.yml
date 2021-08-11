@@ -4,7 +4,7 @@ author: BUSD PLUS
 email: busdplus@fdasho.com
 description: BUSD PLUS PLUS
 baseurl: ''
-url: ''
+url: https://jacobfastpro.github.io/BUSD-PLUS/
 defaults:
 - scope:
     path: ''
