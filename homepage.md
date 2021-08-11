@@ -9,5 +9,8 @@ page_sections:
   navigation:
   - link: Telegram
     link_text: https://t.me/BUSDplus
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2021/08/11/busdblack.png"
 
 ---
